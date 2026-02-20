@@ -113,14 +113,17 @@ GET /student/gpa
 
 ## Project Structure
 student-grade-management-system/
-├── cmd/server/main.go
+├── cmd/
+│   └── server/
+│       └── main.go
 ├── internal/
-│ ├── handlers/
-│ ├── middleware/
-│ ├── models/
-│ ├── storage/
-│ └── utils/
-├── docs/design.md
+│   ├── handlers/
+│   ├── middleware/
+│   ├── models/
+│   ├── storage/
+│   └── utils/
+├── docs/
+│   └── design.md
 ├── prompts.md
 ├── go.mod
 └── README.md
