@@ -112,6 +112,7 @@ GET /student/gpa
 }
 
 ## Project Structure
+```
 student-grade-management-system/
 ├── cmd/
 │   └── server/
@@ -127,6 +128,7 @@ student-grade-management-system/
 ├── prompts.md
 ├── go.mod
 └── README.md
+```
 
 
 ## How to Run
