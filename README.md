@@ -56,7 +56,8 @@ There is **no authentication**, **no database**, and **no external libraries**.
 
 ### Required Headers
 X-Role: Admin | Teacher | Student
-X-User-ID: <integer>
+
+X-User-ID: (integer)
 
 Requests missing or using invalid headers are rejected.
 
