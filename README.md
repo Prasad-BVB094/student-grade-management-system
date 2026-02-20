@@ -152,4 +152,6 @@ http://localhost:8080
 ## AI Transparency
 
 All AI prompts used during development are included **verbatim** in:
+```
 prompts.md
+```
