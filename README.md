@@ -134,7 +134,9 @@ student-grade-management-system/
 ## How to Run
 
 ##### From the project root:
+```
 go run ./cmd/server/main.go
+```
 
 
 ##### Server starts at:
