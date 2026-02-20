@@ -131,11 +131,11 @@ student-grade-management-system/
 
 ## How to Run
 
-From the project root:
+##### From the project root:
 go run ./cmd/server/main.go
 
 
-Server starts at:
+##### Server starts at:
 http://localhost:8080
 
 
